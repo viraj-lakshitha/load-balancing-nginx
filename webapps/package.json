@@ -1,0 +1,15 @@
+{
+  "name": "webapps",
+  "version": "1.0.0",
+  "description": "Sample API server for nginx load balancing",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Viraj Lakshitha Bandara",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1",
+    "nodemon": "^2.0.19"
+  }
+}
